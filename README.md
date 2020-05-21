@@ -1,2 +1,2 @@
 # Sentinel
-Sentinel tests
+Sentinel tests for the Jenkins/AWS/TFE demo
